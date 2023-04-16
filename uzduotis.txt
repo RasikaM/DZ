@@ -1,0 +1,7 @@
+Instructions
+Užduotis: Sukurti kuo panašesnį puslapį į prikabintą dizainą (naudojame HTML ir CSS).
+
+Panaudoti prikabintus svg (įdėti į kvadratukus). 
+Paskutinio commit'o žinutė turi būti "week 2 Friday Challange "
+Github repozitorijos nuorodą prikabinti prie šio assignment arba atsiųsti 'Aras Minelga' per Teams
+Patarimas: atsisiųskite visus failus ir tik tada bandykite atlikti. 
